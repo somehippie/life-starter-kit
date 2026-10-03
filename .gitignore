@@ -1,0 +1,5 @@
+# Local-only scan patterns. Never commit the terms you are scanning for.
+.pii-extra-patterns
+Thumbs.db
+Desktop.ini
+.DS_Store

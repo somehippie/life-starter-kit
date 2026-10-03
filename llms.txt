@@ -1,0 +1,15 @@
+# Life Starter Kit
+
+> Practical starter kits for parts of everyday life: what to buy, in what order, what it costs, and what tends to go wrong. Each module has an ai-context.md written to be pasted into an AI assistant. Not professional advice; see DISCLAIMER.md.
+
+## Modules
+
+- [Home](home/ai-context.md): choosing products and services that improve a home without overspending (fragrance-free soap dispensers, hot tub upkeep). Status: Draft.
+- Supplements: planned, no ai-context.md yet.
+- Drone: planned, no ai-context.md yet.
+
+## Repository
+
+- [README.md](README.md): overview and module list
+- [DISCLAIMER.md](DISCLAIMER.md): not medical, legal or financial advice
+- [CONTRIBUTING.md](CONTRIBUTING.md): module template and content rules
