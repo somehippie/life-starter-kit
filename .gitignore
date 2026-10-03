@@ -1,5 +1,6 @@
 # Local-only scan patterns. Never commit the terms you are scanning for.
 .pii-extra-patterns
+.msg-blocklist
 Thumbs.db
 Desktop.ini
 .DS_Store
