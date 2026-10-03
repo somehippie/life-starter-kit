@@ -7,7 +7,42 @@ Read this and [ROADMAP.md](ROADMAP.md) at the start of every session.
 private notes repo's `reviews/` folder, one file per phase, for example
 `reviews/phase2-drone.md`. Never put review files in this public repo.
 
-## Last session: 2026-10-02 to 2026-10-03 (phase 3, complete)
+## Last session: 2026-10-03 (phase 4, complete)
+
+### Done
+
+- **Phase 4 complete.** The AI Starter Kit README now has a "Related"
+  section linking here, with a dated entry in its CHANGELOG under
+  "Repository history". The curriculum is unchanged: it stays at v0.10 and
+  no tag was added. Its paused-document rule was respected, because only the
+  README and CHANGELOG changed, at the owner's request.
+- The link says life-starter-kit is **not** a Booster Pack. The owner
+  defines Booster Packs as the advanced AI courses that follow the AI Starter
+  Kit, each to get its own name; the curriculum's Part 8 names the first.
+- To keep that term unambiguous, each module's `boosters/` folder was renamed
+  `add-ons/`, with the template, CONTRIBUTING, READMEs and roadmap updated.
+- Reviewed in the private notes repo before publishing:
+  `reviews/phase4-crosslink.md`.
+
+### Next: phase 6 (add-on packs per module)
+
+Phase 5 is already done, so phase 6 is next. It is gated on the starters
+maturing: add-ons come after a module's starter is solid, and all three
+modules are still Draft. The quickest ways to unblock it:
+
+- Home: record the soap dispenser trial outcome and move Home to Usable.
+- Drone: add first-flight lessons after real flights.
+- Supplements: read the USP and NSF pages by hand to upgrade the two
+  secondary rows.
+
+Phase 7 (translation quality) is independent of the starters and can be
+started instead if the owner prefers. Follow the review workflow either way.
+
+### Open questions
+
+- Which comes first: unblocking phase 6, or starting phase 7?
+
+## Earlier session: 2026-10-02 to 2026-10-03 (phase 3, complete)
 
 ### Done
 
