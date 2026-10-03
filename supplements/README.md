@@ -29,4 +29,4 @@ themselves before asking a professional.
 | [lessons.md](lessons.md) | What tends to work when keeping up with supplements, and what does not |
 | [ai-context.md](ai-context.md) | Paste into any AI to audit a label or prepare questions for a pharmacist |
 | [sources.md](sources.md) | Where every fact comes from, with dates |
-| [boosters/](boosters/) | Deeper add-on packs (none yet) |
+| [add-ons/](add-ons/) | Deeper add-on packs (none yet) |

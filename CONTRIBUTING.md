@@ -16,7 +16,7 @@ in the root `README.md` and to `llms.txt`.
 | guide.md | The starter kit: ordered steps, buying order and timing, budget / mid / upgrade tiers |
 | lessons.md | Field notes: what worked, what did not, and why, written so a stranger can apply them |
 | ai-context.md | Paste-into-any-AI version of guide + lessons. About 1,500 words at most. Sections: Purpose, Key facts, Decision rules, Common mistakes, Prompts. First line: `Derived from guide.md as of <date>. Regenerate when guide changes.` |
-| boosters/ | Deeper add-on packs, one file each, added once the starter is solid |
+| add-ons/ | Deeper add-on packs, one file each, added once the starter is solid |
 | sources.md | The source and "last verified" date for every factual claim |
 
 ## Content rules

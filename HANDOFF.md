@@ -31,10 +31,10 @@ private notes repo's `reviews/` folder, one file per phase, for example
 
 ### Next: phase 4 (cross-link from the AI Starter Kit)
 
-Add a short "Related: life-starter-kit / booster packs" section to the AI
-Starter Kit repo's README only; it stays a separate repo. Follow the review
+Add a short "Related" section, linking here, to the AI Starter Kit
+repo's README only; it stays a separate repo. Follow the review
 workflow: write `reviews/phase4-crosslink.md` in the private notes repo and
-wait for approval before pushing. Phases 6 (boosters) and 7 (translation)
+wait for approval before pushing. Phases 6 (add-ons) and 7 (translation)
 follow.
 
 ### Open questions

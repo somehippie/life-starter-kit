@@ -26,7 +26,7 @@ goggles) without overspending, starting with a tiny "whoop" drone.
 | [lessons.md](lessons.md) | What tends to work and what does not |
 | [ai-context.md](ai-context.md) | Paste into any AI to tailor this kit to you |
 | [sources.md](sources.md) | Where every fact comes from, with dates |
-| [boosters/](boosters/) | Deeper add-on packs (none yet) |
+| [add-ons/](add-ons/) | Deeper add-on packs (none yet) |
 
 A full analog build log, from radio setup to simulator practice, is in
 [fpv-starter-kit](https://github.com/somehippie/fpv-starter-kit).

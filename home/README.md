@@ -30,4 +30,4 @@ not depend on memory.
 | [lessons.md](lessons.md) | What tends to work and what does not |
 | [ai-context.md](ai-context.md) | Paste into any AI to tailor this kit to your home |
 | [sources.md](sources.md) | Where every fact comes from, with dates |
-| [boosters/](boosters/) | Deeper add-on packs (none yet) |
+| [add-ons/](add-ons/) | Deeper add-on packs (none yet) |
