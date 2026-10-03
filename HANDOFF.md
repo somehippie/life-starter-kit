@@ -7,7 +7,7 @@ Read this and [ROADMAP.md](ROADMAP.md) at the start of every session.
 private notes repo's `reviews/` folder, one file per phase, for example
 `reviews/phase2-drone.md`. Never put review files in this public repo.
 
-## Last session: 2026-10-02 (phase 3)
+## Last session: 2026-10-02 to 2026-10-03 (phase 3, complete)
 
 ### Done
 
@@ -18,16 +18,24 @@ private notes repo's `reviews/` folder, one file per phase, for example
   recommendations; every interaction claim ends "confirm with a pharmacist or
   doctor"; nothing that reveals the owner's own stack or health.
 - Sources read at source: NIH ODS consumer and nutrient fact sheets, NCCIH,
-  FDA Q&A, 21 CFR 101.36, Tucker 2018 (JAMA Netw Open, abstract), Cohen 2023
-  (JAMA), Murad 2016 (abstract). USP and NSF sites refused automated access,
-  so their program details are labelled secondary.
+  FDA Q&A, 21 CFR 101.36, NCCIH Know the Science (types of research), NIH
+  ODS Vitamin E, Tucker 2018 (JAMA Netw Open, abstract), Cohen 2023 (JAMA),
+  Murad 2016 (abstract), Ejima 2016 (Eur J Clin Invest, abstract). USP and NSF
+  sites refused automated access, so their program details are labelled
+  secondary.
 - Reviewed in the private notes repo before publishing:
-  `reviews/phase3-supplements.md`.
+  `reviews/phase3-supplements.md`. Approved with changes on 2026-10-03: label
+  example switched to vitamin E, evidence table re-sourced to NCCIH (the
+  testimonials row was cut for lack of a source), abstract citations marked.
+- **Phase 3 complete.** Published 2026-10-03; Supplements stays **Draft**.
 
 ### Next: phase 4 (cross-link from the AI Starter Kit)
 
-Add a short "Related: life-starter-kit / booster packs" section to that
-repo's README only.
+Add a short "Related: life-starter-kit / booster packs" section to the AI
+Starter Kit repo's README only; it stays a separate repo. Follow the review
+workflow: write `reviews/phase4-crosslink.md` in the private notes repo and
+wait for approval before pushing. Phases 6 (boosters) and 7 (translation)
+follow.
 
 ### Open questions
 
