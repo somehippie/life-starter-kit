@@ -22,7 +22,7 @@ on anything here, especially the health and safety modules.
 |---|---|---|
 | [Home](home/) | Choosing products and services that improve a home without overspending: fragrance-free soap dispensers, hot tub upkeep | Draft |
 | [Supplements](supplements/) | How to evaluate supplements and the evidence behind them | Planned |
-| [Drone](drone/) | Getting into FPV flying: what to buy, in what order, and the rules for recreational pilots | Planned |
+| [Drone](drone/) | Getting into FPV flying: what to buy, in what order, and the rules for recreational pilots | Draft |
 
 Statuses: **Planned** (scope only), **Draft** (usable, still being tested),
 **Usable** (tested by at least one person end to end), **Verified** (every

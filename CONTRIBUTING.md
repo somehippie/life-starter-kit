@@ -45,6 +45,7 @@ weigh them:
 |---|---|
 | read at source | The value was read on the original page or document on the date given |
 | secondary | Taken from a page quoting or summarizing the original, which could not be opened |
+| inferred from [source] wording | Not stated in so many words, but follows directly from text that was read at source. Name the source. |
 | unverified | Not yet checked. Say so in the guide text too. |
 
 ## Before you open a pull request

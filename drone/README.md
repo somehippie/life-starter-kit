@@ -1,23 +1,32 @@
 # Drone
 
-> **Safety note:** drones are regulated aircraft. Rules differ by country and
-> change; check the current official rules where you fly. Read
-> [DISCLAIMER.md](../DISCLAIMER.md).
+> **Safety note:** drones are regulated aircraft, and LiPo batteries can catch
+> fire if damaged. Rules differ by country and change; check the current
+> official rules where you fly. Read [DISCLAIMER.md](../DISCLAIMER.md).
 
-**Status:** Planned. No content yet.
+**Status:** Draft. Rules and prices checked 2026-10-02; the build behind it is
+complete up to simulator practice, with first real flights still ahead.
 
-## Scope
+**Who it is for:** a beginner who wants to fly FPV (first-person view, through
+goggles) without overspending, starting with a tiny "whoop" drone.
 
-- A buying guide for the drone, goggles, accessories and a simulator.
-- Setup, from radio to first flight.
-- Buying everything in the right order and at the right time to avoid
-  shipping delays.
-- FAA rules for recreational flyers in the United States.
-- The mini-whoop as an affordable first drone.
-- Analog versus digital whoops and goggles, and when each makes sense.
+## Start here
 
-A complete analog build, from radio setup to simulator practice, is already
-documented in [fpv-starter-kit](https://github.com/somehippie/fpv-starter-kit).
-This module will distill it into the starter kit format.
+1. Read the [guide](guide.md): buying order, what to buy at each budget, and
+   the US rules for recreational flyers.
+2. Buy the radio and a simulator first. They cost under $100 together and tell
+   you whether you enjoy flying.
+3. Skim the [lessons](lessons.md) before updating firmware or ordering spares.
 
-See [ROADMAP.md](../ROADMAP.md), phase 2.
+## In this module
+
+| File | What it is |
+|---|---|
+| [guide.md](guide.md) | Ordered steps, buying order, budget / mid / upgrade tiers, analog vs digital, US rules |
+| [lessons.md](lessons.md) | What tends to work and what does not |
+| [ai-context.md](ai-context.md) | Paste into any AI to tailor this kit to you |
+| [sources.md](sources.md) | Where every fact comes from, with dates |
+| [boosters/](boosters/) | Deeper add-on packs (none yet) |
+
+A full analog build log, from radio setup to simulator practice, is in
+[fpv-starter-kit](https://github.com/somehippie/fpv-starter-kit).

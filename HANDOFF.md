@@ -2,7 +2,50 @@
 
 Read this and [ROADMAP.md](ROADMAP.md) at the start of every session.
 
-## Last session: 2026-10-02 (phase 1)
+## Last session: 2026-10-02 (phase 2, phase 5)
+
+### Done
+
+- **Drone** module (Draft): buying order, budget / mid / upgrade tiers,
+  analog vs digital, US recreational rules, FCC import restrictions,
+  lessons distilled from the public fpv-starter-kit build.
+- FAA rules read at faa.gov (Recreational Flyers page updated 2026-03-18),
+  plus FAA Advisory Circular 91-57D (2025-06-24) and 14 CFR 89.101.
+  FCC Public Notices DA 25-1086, DA 26-22 and DA 26-454 read at source.
+- Owner review before publishing: two rules derived from FAA wording are now
+  labelled "inferred from FAA wording" (a new label in CONTRIBUTING.md), with
+  their primary sources. Added: do not register a sub-250 g whoop voluntarily
+  (it would bring it under Remote ID), and the visual observer details from
+  AC 91-57D.
+- Phase 5 pulled forward: the older private home starter kit repo was
+  archived with a README pointing here.
+
+### Worth knowing
+
+- Since 2025-12-22, new foreign-made drones and drone components cannot get
+  FCC authorization. Already-authorized models can still be sold. Nearly all
+  hobby FPV gear is foreign-made, so the guide tells readers to buy current
+  models while in stock.
+- Prices rose sharply in 2026 (Skyzone SKY04X Pro now $661.99) and many
+  BetaFPV items were sold out when checked.
+
+### Next: phase 3 (Supplements)
+
+Public content = how to evaluate supplements and evidence, how to read a
+label, timing and interactions, keeping a routine simple. No personal stack.
+Strong disclaimer. Primary sources: NIH Office of Dietary Supplements fact
+sheets.
+
+### Open questions
+
+- HDZero Goggle 2 US price could not be read from the maker's page; marked
+  unverified.
+- Drone moves to Usable after first real flights.
+- Soap trial outcome still pending for Home.
+- Three Home soap facts remain "secondary" (CDC, NEA pages blocked automated
+  access).
+
+## Previous session: 2026-10-02 (phase 1)
 
 ### Done
 

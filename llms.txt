@@ -6,7 +6,7 @@
 
 - [Home](home/ai-context.md): choosing products and services that improve a home without overspending (fragrance-free soap dispensers, hot tub upkeep). Status: Draft.
 - Supplements: planned, no ai-context.md yet.
-- Drone: planned, no ai-context.md yet.
+- [Drone](drone/ai-context.md): getting into FPV flying with a tiny whoop: buying order, analog vs digital, US recreational rules. Status: Draft.
 
 ## Repository
 
