@@ -24,6 +24,10 @@ registered dietitian for decisions.
 - Independent quality seals (ConsumerLab.com, NSF International, U.S.
   Pharmacopeia) indicate proper manufacture, listed ingredients present and no
   harmful contaminant levels. They do not mean safe, effective or needed.
+- USP Verified involves a facility audit, lab testing and off-the-shelf
+  testing; NSF/ANSI 173 involves label, toxicology and contaminant reviews
+  with audits and retesting; NSF Certified for Sport adds banned-substance
+  screening. USP says effectiveness is for the FDA to address.
 - Label accuracy varies: in a 2023 study only 3 of 25 melatonin gummies were
   within 10% of the label (range 74% to 347%).
 - Evidence: clinical trials in people give the clearest information on

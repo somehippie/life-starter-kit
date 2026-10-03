@@ -44,6 +44,7 @@ weigh them:
 | Label | Meaning |
 |---|---|
 | read at source | The value was read on the original page or document on the date given |
+| read at source by a separate review session, [date] | A separate review session read the original on that date; the session that wrote the text could not open it. The row says how it was read (in full, or as first-party excerpts). |
 | secondary | Taken from a page quoting or summarizing the original, which could not be opened |
 | inferred from [source] wording | Not stated in so many words, but follows directly from text that was read at source. Name the source. |
 | unverified | Not yet checked. Say so in the guide text too. |

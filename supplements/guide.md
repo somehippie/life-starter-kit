@@ -59,9 +59,17 @@ ConsumerLab.com, NSF International and U.S. Pharmacopeia (USP).
 | It contains the ingredients on the label | That it works |
 | It does not contain harmful levels of contaminants | That you need it |
 
-USP's mark also covers whether a product breaks down in the body within a set
-time. NSF's Certified for Sport program adds screening for substances banned
-in sport, which matters if you are tested.
+What two of the testers check, from their own descriptions:
+
+| Program | What it involves |
+|---|---|
+| USP Verified | An audit of the manufacturing facility against USP's good manufacturing practice chapter and the FDA's supplement manufacturing rule (21 CFR Part 111); lab testing against USP-NF standards or the product's specifications; and testing of products bought off the shelf. A product with the mark should contain no harmful levels of contaminants, no toxic botanicals, and no more active compound than the label states, and must dissolve or disintegrate properly. |
+| NSF/ANSI 173 certification | A review of label claims, a toxicology review of added ingredients, and a contaminant review, with testing in NSF's own labs, annual audits and periodic retesting. |
+| NSF Certified for Sport | Adds screening for hundreds of substances banned in sport, which matters if you are drug-tested. |
+
+**Neither mark means a supplement works, or that it is right for you.** USP
+says outright that effectiveness is for the FDA to address. A seal answers
+"is this what the label says?", not "should I take it?".
 
 Label accuracy is a real problem without independent testing. In a 2023 study
 of 25 melatonin gummy products sold in the US, only 3 contained an amount
