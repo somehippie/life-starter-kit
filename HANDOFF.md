@@ -7,7 +7,35 @@ Read this and [ROADMAP.md](ROADMAP.md) at the start of every session.
 private notes repo's `reviews/` folder, one file per phase, for example
 `reviews/phase2-drone.md`. Never put review files in this public repo.
 
-## Last session: 2026-10-02 (phase 2, phase 5)
+## Last session: 2026-10-02 (phase 3)
+
+### Done
+
+- **Supplements** module (Draft): how supplements are regulated, five checks
+  (need, evidence, quality, label, interactions), label auditing, interaction
+  examples, free tools, levels of checking, generalized lessons.
+- Module rules set by the owner: no doses, timings or stacks presented as
+  recommendations; every interaction claim ends "confirm with a pharmacist or
+  doctor"; nothing that reveals the owner's own stack or health.
+- Sources read at source: NIH ODS consumer and nutrient fact sheets, NCCIH,
+  FDA Q&A, 21 CFR 101.36, Tucker 2018 (JAMA Netw Open, abstract), Cohen 2023
+  (JAMA), Murad 2016 (abstract). USP and NSF sites refused automated access,
+  so their program details are labelled secondary.
+- Reviewed in the private notes repo before publishing:
+  `reviews/phase3-supplements.md`.
+
+### Next: phase 4 (cross-link from the AI Starter Kit)
+
+Add a short "Related: life-starter-kit / booster packs" section to that
+repo's README only.
+
+### Open questions
+
+- USP and NSF program pages could be read by hand to upgrade two rows from
+  secondary.
+- Supplements, Drone and Home are all Draft.
+
+## Earlier session: 2026-10-02 (phase 2, phase 5)
 
 ### Done
 

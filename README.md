@@ -21,7 +21,7 @@ on anything here, especially the health and safety modules.
 | Module | What it covers | Status |
 |---|---|---|
 | [Home](home/) | Choosing products and services that improve a home without overspending: fragrance-free soap dispensers, hot tub upkeep | Draft |
-| [Supplements](supplements/) | How to evaluate supplements and the evidence behind them | Planned |
+| [Supplements](supplements/) | How to evaluate supplements: evidence, quality seals, label auditing, interaction checking. No dose advice. | Draft |
 | [Drone](drone/) | Getting into FPV flying: what to buy, in what order, and the rules for recreational pilots | Draft |
 
 Statuses: **Planned** (scope only), **Draft** (usable, still being tested),

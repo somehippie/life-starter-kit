@@ -7,7 +7,7 @@ starts here and at [HANDOFF.md](HANDOFF.md).
 |---|---|---|---|
 | 1 | Scaffold, template, Home module, stubs, licenses, private notes repo | Done 2026-10-02 | Home is Draft: the soap dispenser trial is still running |
 | 2 | Drone module | Done 2026-10-02 (Draft) | FAA rules and FCC notices read at source; prices from maker and retailer pages. Distilled from the public `somehippie/fpv-starter-kit` build. Moves to Usable after first real flights. |
-| 3 | Supplements module | Not started | Public content = distilled lessons + how to evaluate supplements and evidence. No personal stack. Strong disclaimer. A supplement-picker web tool is being built separately; link it once it is public. |
+| 3 | Supplements module | Done 2026-10-02 (Draft) | Teaches evaluation only: no doses, timings or stacks as recommendations; every interaction claim ends "confirm with a pharmacist or doctor". Sources: NIH ODS, NCCIH, FDA, 21 CFR 101.36, peer-reviewed studies. A supplement-picker web tool is being built separately; link it once it is public. |
 | 4 | Cross-link from the AI Starter Kit | Not started | Add a short "Related: life-starter-kit / booster packs" section to that repo's README only. It stays a separate repo. |
 | 5 | Retire the older home starter kit repo | Done 2026-10-02 | The older, private home starter kit repo was archived with the owner's approval, with a README pointing here. |
 | 6 | Booster packs per module | Not started | As each starter matures |

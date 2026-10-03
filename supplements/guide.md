@@ -1,0 +1,133 @@
+# Supplements: guide
+
+> This guide does not recommend any supplement, dose, timing or combination.
+> It teaches how to evaluate them. Read [DISCLAIMER.md](../DISCLAIMER.md), and
+> talk to a doctor, pharmacist or registered dietitian before starting
+> anything.
+
+Sources checked 2026-10-02. Every claim is listed in [sources.md](sources.md).
+
+## What you are aiming for
+
+Being able to look at any supplement, or a claim about one, and answer five
+questions: Do I need it? Is the evidence any good? Is this product what it
+says it is? What does the label actually say? Does it interact with anything
+I take? The answers come from free public sources and from a pharmacist, not
+from the product's marketing.
+
+## Start with how supplements are regulated (US)
+
+| Fact | Why it matters |
+|---|---|
+| The FDA does not approve dietary supplements before they are sold | A product being on a shelf says nothing about whether it works or is safe |
+| Companies are responsible for their products' safety and for truthful labels, and generally do not have to show the FDA their safety evidence | Quality depends on the manufacturer, so independent checks matter |
+| No law limits the serving size or the amount of an ingredient in a serving | A high number on a label is the maker's choice, not an approved amount |
+| The FDA cannot test every product; some, mainly for weight loss, sexual enhancement and bodybuilding, have contained hidden prescription drugs | Be most careful in those categories |
+
+## The five checks
+
+| Step | Check | How |
+|---|---|---|
+| 1 | Do you need it at all? | Ask your doctor or a registered dietitian. Many needs can be met by food, and some can be confirmed with a blood test. |
+| 2 | Is the evidence any good? | Read the NIH Office of Dietary Supplements fact sheet for the ingredient. Weigh the type of evidence (table below). |
+| 3 | Is this product what it says it is? | Look for an independent quality seal. Treat words like "verified" or "certified" printed by the maker as marketing unless a named tester backs them. |
+| 4 | What does the label actually say? | Audit the Supplement Facts panel (section below). |
+| 5 | Does it interact with anything you take? | Show the label to a pharmacist along with your medicines and other supplements. |
+
+### Step 2: weighing evidence
+
+| Type of evidence | What it can tell you |
+|---|---|
+| Systematic review or meta-analysis | Looks across many studies on the same topic; when many reach the same conclusion, the result is more reliable |
+| Clinical trial in people | Gives the clearest information on whether something is effective and safe in humans |
+| Observational study | Finds associations, which may not reliably show cause and effect |
+| Basic (lab) research | The first step in research, not proof that something works in people |
+
+Red flags: "natural" used to mean safe (some natural products can harm the
+liver); claims to cure or treat a disease; a single study presented as
+settled; a maker's own "clinically proven" with no study named.
+
+### Step 3: independent quality seals
+
+Several independent organizations test supplements and let products that
+pass display a seal. The NIH Office of Dietary Supplements names three:
+ConsumerLab.com, NSF International and U.S. Pharmacopeia (USP).
+
+| A seal can tell you | A seal does not tell you |
+|---|---|
+| The product was properly manufactured | That it is safe for you |
+| It contains the ingredients on the label | That it works |
+| It does not contain harmful levels of contaminants | That you need it |
+
+USP's mark also covers whether a product breaks down in the body within a set
+time. NSF's Certified for Sport program adds screening for substances banned
+in sport, which matters if you are tested.
+
+Label accuracy is a real problem without independent testing. In a 2023 study
+of 25 melatonin gummy products sold in the US, only 3 contained an amount
+within 10% of the label; the rest ranged from 74% to 347% of the stated
+amount.
+
+### Step 4: auditing a label
+
+Every US supplement carries a Supplement Facts panel. Read it line by line.
+
+| Part of the label | What to check |
+|---|---|
+| Serving size | The amounts listed are per serving, and a serving may be more than one capsule or gummy |
+| Amount per serving | The quantity of each ingredient |
+| % Daily Value | How a serving compares with a daily reference. A symbol such as an asterisk, explained at the bottom as "Daily Value not established", means no reference exists |
+| Form, often in brackets ("as d-alpha-tocopherol") | Forms of the same nutrient can differ in strength. By weight, synthetic vitamin E (dl-alpha-tocopherol) counts as half as much vitamin E as the natural form (d-alpha-tocopherol). The ODS fact sheet for each nutrient explains its forms. |
+| "Proprietary blend" | The label must list the blend's ingredients in order of weight but only the **total** weight of the blend, not each ingredient's amount |
+| Other ingredients | Fillers, coatings, flavours, oils. A reaction can come from these, not the headline nutrient. |
+
+Then check the totals against the **upper limits** in each nutrient's ODS fact
+sheet, adding together every product that contains the same nutrient
+(multivitamins, gummies, fortified foods and drinks all count). Do not set
+your own amounts from this guide; take the totals to your doctor or
+pharmacist.
+
+### Step 5: checking interactions
+
+Supplements can interact with medicines, with lab tests, and with each other;
+confirm with a pharmacist or doctor. The examples below show why this step
+matters. They are not a complete list.
+
+- St. John's wort can speed the breakdown of many medicines and make them less
+  effective, including some antidepressants, birth control pills, heart
+  medicines, HIV medicines and transplant drugs. Confirm with a pharmacist or
+  doctor.
+- Vitamin K can interact seriously with warfarin and similar blood thinners;
+  people on them are told to keep their vitamin K intake consistent. Confirm
+  with a pharmacist or doctor.
+- High doses of biotin, common in hair, skin and nail products, can make some
+  blood tests read falsely high or low, including thyroid tests. Tell whoever
+  orders your blood work. Confirm with a pharmacist or doctor.
+- Calcium may interfere with iron absorption, though this has not been
+  definitively established. Confirm with a pharmacist or doctor.
+- Some supplements can increase bleeding risk or change your response to
+  anesthesia if taken before surgery. Confirm with a pharmacist or doctor.
+
+## Free tools
+
+| Tool | Use it for |
+|---|---|
+| [NIH Office of Dietary Supplements fact sheets](https://ods.od.nih.gov/factsheets/list-all/) | Evidence summaries, reference amounts, upper limits, known interactions |
+| [Dietary Supplement Label Database](https://dsld.od.nih.gov/) | Looking up and comparing labels of products sold in the US |
+| [MedlinePlus: Herbs and Supplements](https://medlineplus.gov/druginfo/herb_All.html) | Plain-language summaries of herbs and supplements |
+| [FDA: Information on Select Dietary Supplement Ingredients](https://www.fda.gov/food/dietary-supplements/dietary-supplement-ingredient-directory) | What the FDA has said about specific ingredients |
+| Your pharmacist | Checking a supplement against your medicines, free and in person |
+
+## How much checking to do
+
+| Level | When | What to do |
+|---|---|---|
+| Quick | A single, common vitamin or mineral | Steps 1, 4 and 5: ask whether you need it, read the label, ask a pharmacist |
+| Standard | Anything new to you | All five steps |
+| Thorough | Herbal products, blends, sports products, or anything sold for weight loss, sexual enhancement or muscle building | All five steps, plus an independent seal as a requirement, not a bonus |
+
+## When to stop and get help
+
+Any new symptom after starting a supplement: stop and contact a doctor. Call
+emergency services for anything severe. In the US, adverse reactions can be
+reported to the FDA through [MedWatch](https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program).

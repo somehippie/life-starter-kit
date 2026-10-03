@@ -5,7 +5,7 @@
 ## Modules
 
 - [Home](home/ai-context.md): choosing products and services that improve a home without overspending (fragrance-free soap dispensers, hot tub upkeep). Status: Draft.
-- Supplements: planned, no ai-context.md yet.
+- [Supplements](supplements/ai-context.md): how to evaluate a supplement (need, evidence, quality seals, label auditing, interactions). Recommends no doses, timings or combinations. Status: Draft.
 - [Drone](drone/ai-context.md): getting into FPV flying with a tiny whoop: buying order, analog vs digital, US recreational rules. Status: Draft.
 
 ## Repository
