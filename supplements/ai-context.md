@@ -53,6 +53,10 @@ registered dietitian for decisions.
   comparing with the upper limit.
 - If a new symptom follows a new product, advise stopping and contacting a
   doctor.
+- End every session with a short report for a pharmacist, in the format in the
+  guide, listing what each check found and what is still open.
+- Give links for every source used and say when something could not be
+  confirmed, so the user can check it.
 
 ## Common mistakes
 
@@ -82,6 +86,33 @@ registered dietitian for decisions.
 ## Prompts
 
 Copy one of these into your AI assistant after pasting this file.
+
+**Guided session (start here):**
+
+```
+Using the guide above, walk me through the five checks for one supplement,
+one step at a time. Ask me for what you need at each step (product name,
+label photo or text, the maker's website, what I already take). For each
+step, give me the links you used so I can open them, and say when you are
+unsure. Do not recommend whether I should take it, how much, or when. At the
+end, write a short report for a pharmacist in the format from the guide,
+listing what each check found and the questions still open, laid out so I can
+email it, print it, or read it out on a phone call.
+```
+
+```
+Find the NIH Office of Dietary Supplements fact sheet for <ingredient>. Give
+me the link, then summarize what kind of evidence it describes (trials,
+observational studies, lab research). If there is no fact sheet, say so and
+suggest other NIH pages, with links.
+```
+
+```
+Check whether <product> from <maker> carries an independent quality seal
+(USP, NSF or ConsumerLab). Look at the maker's website and the tester's site.
+Give me the links, and tell me plainly if you could not confirm it on the
+tester's own site.
+```
 
 ```
 Here is the Supplement Facts panel from a product I am considering:

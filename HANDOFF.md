@@ -7,7 +7,38 @@ Read this and [ROADMAP.md](ROADMAP.md) at the start of every session.
 private notes repo's `reviews/` folder, one file per phase, for example
 `reviews/phase2-drone.md`. Never put review files in this public repo.
 
-## Last session: 2026-10-03 (Supplements sources, phase 7 complete)
+## Last session: 2026-10-03 (Supplements field test)
+
+### Done
+
+- **Supplements field test.** The owner ran the five checks on one real
+  product using only the guide (product not recorded). Gaps found and fixed:
+  NIH fact sheets were hard to find; seals were not visible on the label; the
+  guide assumed every step was done by hand and was a lot for a new user.
+- The guide now opens with **the quick way**: paste `ai-context.md` into an AI
+  assistant, run its **guided session** prompt, and finish with a short report
+  for a pharmacist. Every check has an AI handoff; new guidance on finding
+  fact sheets and checking seals on the maker's and tester's sites; a closing
+  section "Take a report to your pharmacist" with a template, noting that many
+  pharmacies don't accept email (print it, show it at the counter, or read it
+  on a call). AI steps must give links and never recommend whether, how much
+  or when to take anything.
+- Review: `reviews/phase3c-supplements-field-test.md`.
+
+### Next
+
+Supplements stays **Draft**. It moves to Usable after one rerun using the
+guided-session prompt, with the resulting report reaching a pharmacist.
+
+Phase 6 (add-ons) remains the only roadmap phase, still gated on a module
+reaching Usable. Other routes: record the Home soap trial outcome; add Drone
+first-flight lessons.
+
+### Open questions
+
+- Which module reaches Usable first.
+
+## Earlier session: 2026-10-03 (Supplements sources, phase 7 complete)
 
 ### Done
 

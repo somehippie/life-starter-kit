@@ -15,8 +15,10 @@ themselves before asking a professional.
 
 ## Start here
 
-1. Read the [guide](guide.md): the five checks (need, evidence, quality,
-   label, interactions).
+1. Quickest route: paste [ai-context.md](ai-context.md) into any AI
+   assistant and use its **guided session** prompt. It walks you through the
+   five checks and ends with a short report for a pharmacist to confirm.
+   Or read the [guide](guide.md) and do the checks yourself.
 2. Use the free tools listed there: NIH fact sheets, the Dietary Supplement
    Label Database, and your pharmacist.
 3. Skim the [lessons](lessons.md) on keeping a routine simple and honest.

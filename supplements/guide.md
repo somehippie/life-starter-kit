@@ -15,6 +15,28 @@ says it is? What does the label actually say? Does it interact with anything
 I take? The answers come from free public sources and from a pharmacist, not
 from the product's marketing.
 
+## The quick way: one AI session, then a pharmacist
+
+You do not have to do every check by hand. Most people will move faster like
+this:
+
+1. Copy [ai-context.md](ai-context.md) into any AI assistant.
+2. Use the **guided session** prompt at the end of that file. The assistant
+   walks you through the five checks one at a time and asks for what it needs:
+   the product name, a photo or text of the label, the maker's website, and the
+   medicines and supplements you take.
+3. At the end it writes a short **report for a pharmacist**: what each check
+   found and what is still open.
+4. Send or bring that report to a pharmacist and let them confirm it.
+
+Two cautions. AI assistants can be wrong and can invent links, so open every
+link it gives you and check that it says what the assistant claims. And the
+report is preparation, not a verdict: the pharmacist's answer is the one that
+counts.
+
+The rest of this guide explains each check, for when you want to understand
+or double-check what the assistant told you.
+
 ## Start with how supplements are regulated (US)
 
 | Fact | Why it matters |
@@ -26,15 +48,22 @@ from the product's marketing.
 
 ## The five checks
 
-| Step | Check | How |
-|---|---|---|
-| 1 | Do you need it at all? | Ask your doctor or a registered dietitian. Many needs can be met by food, and some can be confirmed with a blood test. |
-| 2 | Is the evidence any good? | Read the NIH Office of Dietary Supplements fact sheet for the ingredient. Weigh the type of evidence (table below). |
-| 3 | Is this product what it says it is? | Look for an independent quality seal. Treat words like "verified" or "certified" printed by the maker as marketing unless a named tester backs them. |
-| 4 | What does the label actually say? | Audit the Supplement Facts panel (section below). |
-| 5 | Does it interact with anything you take? | Show the label to a pharmacist along with your medicines and other supplements. |
+| Step | Check | How | AI handoff |
+|---|---|---|---|
+| 1 | Do you need it at all? | Many needs can be met by food, and some can be confirmed with a blood test. The final answer comes from your doctor, pharmacist or a registered dietitian. | Ask the assistant what the ingredient is usually taken for, and what questions to put to a professional |
+| 2 | Is the evidence any good? | Read the NIH Office of Dietary Supplements fact sheet for the ingredient. Weigh the type of evidence (table below). | Ask it to find the NIH fact sheet, give you the link, and summarize the evidence by type |
+| 3 | Is this product what it says it is? | Look for an independent quality seal. Treat words like "verified" or "certified" printed by the maker as marketing unless a named tester backs them. | Ask it to check the maker's website and the tester's site for a seal, then confirm on the tester's site yourself |
+| 4 | What does the label actually say? | Audit the Supplement Facts panel (section below). | Paste or photograph the label and ask for an audit against the label table |
+| 5 | Does it interact with anything you take? | List everything you take, then confirm with a pharmacist. | Ask it to list possible interactions as questions for the pharmacist; confirm with a pharmacist or doctor |
 
 ### Step 2: weighing evidence
+
+**Finding the fact sheet.** Start at the
+[NIH Office of Dietary Supplements fact sheet list](https://ods.od.nih.gov/factsheets/list-all/)
+and look for the ingredient by name, or search the web for "NIH ODS" plus the
+ingredient. Not every ingredient has a fact sheet. If there is none, an AI
+assistant can look for other NIH pages (such as MedlinePlus), but ask it for
+the links and open them yourself.
 
 | Type of evidence | What it can tell you |
 |---|---|
@@ -59,6 +88,12 @@ ConsumerLab.com, NSF International and U.S. Pharmacopeia (USP).
 | It contains the ingredients on the label | That it works |
 | It does not contain harmful levels of contaminants | That you need it |
 
+**If the label doesn't show a seal.** Small packages and online photos often
+leave it off or make it hard to read. Check the maker's website, then search
+the tester's own website for the product. An AI assistant can do the first
+search for you, but treat its answer as a lead: a seal only counts if the
+tester's site lists that product.
+
 What two of the testers check, from their own descriptions:
 
 | Program | What it involves |
@@ -79,6 +114,8 @@ amount.
 ### Step 4: auditing a label
 
 Every US supplement carries a Supplement Facts panel. Read it line by line.
+A single-ingredient product often has a very short label, which makes this
+step quick; still read the "other ingredients" line.
 
 | Part of the label | What to check |
 |---|---|
@@ -116,6 +153,38 @@ matters. They are not a complete list.
 - Some supplements can increase bleeding risk or change your response to
   anesthesia if taken before surgery. Confirm with a pharmacist or doctor.
 
+## Finish: take a report to your pharmacist
+
+Whether you used an AI session or worked by hand, end with a short written
+summary a pharmacist can check in a few minutes. The guided-session prompt in
+[ai-context.md](ai-context.md) writes it for you; this is the shape:
+
+```
+Subject: Supplement check before I start <product>
+
+Product: <name, maker, link>
+What I want it for: <reason>
+What I take now: <medicines and supplements, with amounts as prescribed or labelled>
+
+What I found:
+1. Need: <what I learned, who I asked>
+2. Evidence: <NIH fact sheet link, what kind of evidence exists>
+3. Quality: <seal found or not, where I checked>
+4. Label: <anything unusual: blends, forms, other ingredients>
+5. Interactions: <possible interactions to confirm>
+
+Questions for you:
+- Is this safe with what I already take?
+- <anything else still open>
+```
+
+Many pharmacies don't accept email. If yours doesn't, print the report and
+bring it in, show it on your phone at the counter, or read from it during a
+phone call.
+
+The pharmacist confirms or corrects it. Nothing in this guide, or in an AI
+session, replaces that answer.
+
 ## Free tools
 
 | Tool | Use it for |
@@ -130,7 +199,7 @@ matters. They are not a complete list.
 
 | Level | When | What to do |
 |---|---|---|
-| Quick | A single, common vitamin or mineral | Steps 1, 4 and 5: ask whether you need it, read the label, ask a pharmacist |
+| Quick | A single, common vitamin or mineral | One guided AI session, then the pharmacist report |
 | Standard | Anything new to you | All five steps |
 | Thorough | Herbal products, blends, sports products, or anything sold for weight loss, sexual enhancement or muscle building | All five steps, plus an independent seal as a requirement, not a bonus |
 
