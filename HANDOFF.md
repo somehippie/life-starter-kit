@@ -16,6 +16,8 @@ Read this and [ROADMAP.md](ROADMAP.md) at the start of every session.
 - **Supplements** and **Drone** stubs (Planned).
 - A separate private notes repo holds the raw notes these modules are
   distilled from. Nothing is copied from it verbatim.
+- Ran a PII scan (clean), then published the repository as public with
+  topics starter-kit, guides, ai-context, home-improvement, fpv.
 
 ### Corrections made while checking facts
 
