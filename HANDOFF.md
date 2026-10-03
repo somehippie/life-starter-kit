@@ -2,6 +2,11 @@
 
 Read this and [ROADMAP.md](ROADMAP.md) at the start of every session.
 
+**Review files:** before publishing a phase or module, write the review
+(file tree, claims with sources and dates, PII scan results) into the
+private notes repo's `reviews/` folder, one file per phase, for example
+`reviews/phase2-drone.md`. Never put review files in this public repo.
+
 ## Last session: 2026-10-02 (phase 2, phase 5)
 
 ### Done
