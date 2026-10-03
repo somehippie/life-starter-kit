@@ -7,7 +7,42 @@ Read this and [ROADMAP.md](ROADMAP.md) at the start of every session.
 private notes repo's `reviews/` folder, one file per phase, for example
 `reviews/phase2-drone.md`. Never put review files in this public repo.
 
-## Last session: 2026-10-03 (phase 4, complete)
+## Last session: 2026-10-03 (Supplements sources, phase 7 complete)
+
+### Done
+
+- **Supplements sources upgraded.** USP and NSF are now cited directly,
+  labelled "read at source by a separate review session, 2026-10-03" (a new
+  label in CONTRIBUTING.md), with each row saying how it was read: NSF in
+  full, USP as first-party excerpts. Guide adds that neither mark means a
+  supplement works or is right for you. Supplements stays **Draft**: Usable
+  needs one person to run the five checks on a real product end to end.
+  Review: `reviews/phase3b-supplements-sources.md`.
+- **Phase 7 complete.** TRANSLATE.md recommends an AI assistant with its
+  prompt, adds an "Other tools" table (DeepL accepts Markdown in beta, checked
+  2026-10-03), and sets seven rules for contributed translations: pull
+  requests into `translations/[language code]/`, one fluent reviewer plus an
+  AI back-translation attached to the pull request, pinned to an English
+  commit, marked when out of date, safety text never shortened. CONTRIBUTING
+  rule 5 updated to match; `translations/README.md` added as the index.
+  Review: `reviews/phase7-translation.md`.
+
+### Next: phase 6 (add-on packs per module)
+
+The only roadmap phase left. Still gated on modules leaving Draft:
+
+- Home: record the soap dispenser trial outcome.
+- Drone: add first-flight lessons after real flights.
+- Supplements: one person runs the five checks on a real product.
+
+Revisit a translation platform such as Crowdin if three or more languages
+arrive.
+
+### Open questions
+
+- Which module to move to Usable first.
+
+## Earlier session: 2026-10-03 (phase 4, complete)
 
 ### Done
 

@@ -30,8 +30,10 @@ in the root `README.md` and to `llms.txt`.
    their README linking [DISCLAIMER.md](DISCLAIMER.md). No personal dosages.
 4. **Date anything that changes.** Prices, laws, product models and
    regulations each get a dated source in `sources.md`.
-5. **English is canonical.** Do not commit machine translations; point
-   readers to [TRANSLATE.md](TRANSLATE.md) instead.
+5. **English is canonical.** Unreviewed machine translations are not
+   accepted. Human-reviewed translations are, under the rules in
+   [TRANSLATE.md](TRANSLATE.md#contributing-a-translation): one fluent
+   reviewer plus an attached AI back-translation, pinned to an English commit.
 6. **Plain language.** Short sentences, tables for comparisons. Readers may
    be beginners or reading in a second language.
 

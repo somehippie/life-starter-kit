@@ -11,7 +11,7 @@ starts here and at [HANDOFF.md](HANDOFF.md).
 | 4 | Cross-link from the AI Starter Kit | Done 2026-10-03 | Add a short "Related" section linking here to that repo's README only. It stays a separate repo. Worded so life-starter-kit is not called a Booster Pack, a name the AI Starter Kit reserves for its advanced follow-on courses. |
 | 5 | Retire the older home starter kit repo | Done 2026-10-02 | The older, private home starter kit repo was archived with the owner's approval, with a README pointing here. |
 | 6 | Add-on packs per module | Not started | As each starter matures. Called "add-ons", not "boosters": the AI Starter Kit reserves "Booster Pack" for its advanced follow-on courses. |
-| 7 | Translation quality | Not started | Research translation tools worth recommending; accept community-reviewed translations only |
+| 7 | Translation quality | Done 2026-10-03 | TRANSLATE.md recommends an AI assistant with its prompt, lists other tools (DeepL Markdown in beta), and sets the rules for contributed translations: pull requests into `translations/[language code]/`, one fluent reviewer plus an attached AI back-translation. Revisit a platform such as Crowdin if three or more languages arrive. |
 
 ## Candidate modules (not scheduled)
 

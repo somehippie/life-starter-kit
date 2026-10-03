@@ -36,7 +36,9 @@ written to be pasted into a chat.
 ## Other languages
 
 English is the canonical version. To read a module in another language, see
-[TRANSLATE.md](TRANSLATE.md) for a prompt that translates it with any AI.
+[TRANSLATE.md](TRANSLATE.md) for a prompt that translates it with any AI, or
+check [translations/](translations/README.md) for reviewed translations.
+Contributing one? The rules are in TRANSLATE.md.
 
 ## Contributing
 
