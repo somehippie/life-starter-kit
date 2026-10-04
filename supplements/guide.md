@@ -7,6 +7,18 @@
 
 Sources checked 2026-10-02. Every claim is listed in [sources.md](sources.md).
 
+## Who are you?
+
+Pick the row that fits you and follow its path. **Every path ends with a
+report for your pharmacist**, and the safety note above applies to all of
+them.
+
+| If you are... | Start with | Then | You can skip |
+|---|---|---|---|
+| **Checking one common vitamin or mineral, and want it done quickly** | [The quick way](#the-quick-way-one-ai-session-then-a-pharmacist): one guided AI session | [Take a report to your pharmacist](#finish-take-a-report-to-your-pharmacist), and [when to stop and get help](#when-to-stop-and-get-help) | The detailed sections on each check, unless you want to double-check what the assistant told you |
+| **Wanting to understand the checks and do them yourself** | [How supplements are regulated](#start-with-how-supplements-are-regulated-us), then [the five checks](#the-five-checks) and each step section | [Free tools](#free-tools), [take a report to your pharmacist](#finish-take-a-report-to-your-pharmacist), and [when to stop and get help](#when-to-stop-and-get-help) | The quick way (or use it afterwards to compare) |
+| **Taking any medicine, or looking at an herbal product, a blend, a sports product, or anything sold for weight loss, sexual enhancement or muscle building** | [How much checking to do](#how-much-checking-to-do): you are on the Thorough row. Then [the five checks](#the-five-checks), with an [independent seal](#step-3-independent-quality-seals) required and [interactions](#step-5-checking-interactions) checked with care | [Take a report to your pharmacist](#finish-take-a-report-to-your-pharmacist) (required, not optional), and [when to stop and get help](#when-to-stop-and-get-help) | Nothing. You can use the quick way to start, but do every check. |
+
 ## What you are aiming for
 
 Being able to look at any supplement, or a claim about one, and answer five

@@ -1,4 +1,4 @@
-Derived from guide.md as of 2026-10-02. Regenerate when guide changes.
+Derived from guide.md as of 2026-10-04. Regenerate when guide changes.
 
 # Drone: AI context
 
@@ -9,6 +9,18 @@ legally: what to buy, in what order, how to practise first, and the US rules
 for recreational flyers. Built around a tiny whoop, the usual affordable first
 drone. Not legal advice; rules differ by country and change. LiPo batteries
 can catch fire if damaged: stop using any that are swollen or damaged.
+
+## Reader types
+
+Ask which fits before advising; each has its own path in the guide.
+
+- Curious, not sure they will enjoy flying: radio and a simulator only, then
+  decide. Rules and safety before buying a drone.
+- Ready to buy and fly: the full buying order, parts that match, the FCC
+  buying notes, the rules (visual observer included), setup, and when to
+  stop.
+- Already practising or flying, weighing digital: analog or digital, the
+  upgrade tier, parts that match, the FCC notes and the rules.
 
 ## Key facts
 
@@ -74,7 +86,7 @@ Prices checked 2026-10-02; they change, and many items were sold out.
 Copy one of these into your AI assistant after pasting this file.
 
 ```
-Using the drone kit above, ask me about my budget, where I live, and whether
+Using the drone kit above, ask me which reader type fits me, my budget, where I live, and whether
 I have flown before. Then give me a shopping list in buying order, with what
 to check for compatibility between each part.
 ```

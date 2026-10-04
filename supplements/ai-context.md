@@ -1,4 +1,4 @@
-Derived from guide.md as of 2026-10-02. Regenerate when guide changes.
+Derived from guide.md as of 2026-10-04. Regenerate when guide changes.
 
 # Supplements: AI context
 
@@ -10,6 +10,20 @@ and whether it interacts with anything. It does not recommend any
 supplement, dose, timing or combination. AI assistants using this file
 should not either; they should point the user to a doctor, pharmacist or
 registered dietitian for decisions.
+
+## Reader types
+
+Ask which fits before starting; each has its own path in the guide. Every
+path ends with the report for a pharmacist.
+
+- Checking one common vitamin or mineral quickly: the guided session, then
+  the pharmacist report.
+- Wanting to understand the checks and do them by hand: regulation, the
+  five checks one by one, free tools, then the pharmacist report.
+- Taking any medicine, or looking at an herbal product, a blend, a sports
+  product, or anything sold for weight loss, sexual enhancement or muscle
+  building: thorough checking, an independent seal required, interactions
+  checked with care, and the pharmacist report required. Skip nothing.
 
 ## Key facts
 
@@ -90,8 +104,8 @@ Copy one of these into your AI assistant after pasting this file.
 **Guided session (start here):**
 
 ```
-Using the guide above, walk me through the five checks for one supplement,
-one step at a time. Ask me for what you need at each step (product name,
+Using the guide above, first ask me which reader type fits me. Then walk me
+through the five checks for one supplement, one step at a time. Ask me for what you need at each step (product name,
 label photo or text, the maker's website, what I already take). For each
 step, give me the links you used so I can open them, and say when you are
 unsure. Do not recommend whether I should take it, how much, or when. At the

@@ -3,7 +3,7 @@ name: fpv-drone-starter
 description: Helps a beginner get into FPV (first-person-view) drone flying cheaply and legally with a tiny whoop, covering what to buy and in what order, practising in a simulator first, matching radio, receiver and video parts, and the US rules for recreational flyers. Use when someone wants to start flying FPV, build a shopping list, check gear compatibility, or understand drone rules before a first flight.
 ---
 
-Derived from guide.md as of 2026-10-02. Regenerate when guide changes.
+Derived from guide.md as of 2026-10-04. Regenerate when guide changes.
 
 # Drone
 
@@ -15,8 +15,9 @@ you fly. Read the repository's DISCLAIMER.md. Not legal advice.
 
 ## How to use this skill
 
-1. Follow the buying order in [guide.md](guide.md): radio and a simulator
-   first, then the rest while practising.
+1. Start with the "Who are you?" table at the top of [guide.md](guide.md).
+   Ask the user which reader type fits them, then follow that path. Anyone
+   without a radio and a simulator gets those first.
 2. Use [ai-context.md](ai-context.md) for the key facts, decision rules,
    common mistakes and prompts.
 3. Check [lessons.md](lessons.md) before the user updates firmware or orders

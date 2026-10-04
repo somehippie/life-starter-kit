@@ -13,6 +13,11 @@
 trying to make sense of a label or a health claim, who wants to judge it for
 themselves before asking a professional.
 
+**Reader types:** checking one common vitamin or mineral quickly; wanting
+to do the checks by hand; taking any medicine or looking at a higher-risk
+product. The guide opens with a path for each, and every path ends with a
+report for a pharmacist.
+
 ## Start here
 
 1. Quickest route: paste [ai-context.md](ai-context.md) into any AI

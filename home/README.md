@@ -5,6 +5,10 @@
 **Who it is for:** anyone who wants to improve how their home works, choosing
 the right mix of products, services and AI help without overspending.
 
+**Reader types:** wanting gentler soap on the cheapest route; ready to
+replace soap dispensers; looking after a hot tub. The guide opens with a
+path for each.
+
 The approach throughout: fix the cheapest thing first, buy one of anything
 before buying for the whole house, and write down schedules so upkeep does
 not depend on memory.

@@ -12,6 +12,14 @@ guide.md or lessons.md, with its source in sources.md. Delete comments when done
 
 <What this kit helps someone do, in two or three sentences.>
 
+## Reader types
+
+Ask which fits before advising; each has its own path in the guide's
+"Who are you?" table.
+
+- <reader type 1>: <where their path starts and what it covers>
+- <reader type 2>: <where their path starts and what it covers>
+
 ## Key facts
 
 - <fact, with its date if it can change>
@@ -29,8 +37,9 @@ guide.md or lessons.md, with its source in sources.md. Delete comments when done
 Copy one of these into your AI assistant after pasting this file.
 
 ```
-Using the kit above, ask me up to five questions about my situation, then
-recommend which tier to start with and what to buy first.
+Using the kit above, ask me which reader type fits me and up to five
+questions about my situation, then recommend which tier to start with and
+what to buy first.
 ```
 
 ```

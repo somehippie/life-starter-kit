@@ -10,6 +10,10 @@ complete up to simulator practice, with first real flights still ahead.
 **Who it is for:** a beginner who wants to fly FPV (first-person view, through
 goggles) without overspending, starting with a tiny "whoop" drone.
 
+**Reader types:** curious, not sure they will enjoy it; ready to buy and
+fly; already practising and weighing digital. The guide opens with a path
+for each.
+
 ## Start here
 
 1. Read the [guide](guide.md): buying order, what to buy at each budget, and

@@ -4,6 +4,16 @@ Prices and rules checked 2026-10-02. Prices moved a lot in 2026 and stock is
 thin; re-check before buying. Sources for every figure are in
 [sources.md](sources.md).
 
+## Who are you?
+
+Pick the row that fits you and follow its path.
+
+| If you are... | Start with | Then | You can skip |
+|---|---|---|---|
+| **Curious, not sure you will enjoy flying** | [Steps](#steps) 1-3: buy only the radio and a simulator (see "Where to start" under [what to buy](#what-to-buy)) | [Setup notes](#setup-notes) on simulator throttle. Decide after some practice. Before buying a drone, read the [rules](#rules-for-recreational-flyers-us) and [when to stop and get help](#when-to-stop-and-get-help). | Goggles and drone tiers, analog or digital, and the FCC buying notes, for now |
+| **Ready to buy and fly** | [Steps](#steps) 1-8 in order, with [what to buy](#what-to-buy) and "Make the parts match" | [Buying in the US after December 2025](#buying-in-the-us-after-december-2025), the [rules](#rules-for-recreational-flyers-us) (visual observer included), [setup notes](#setup-notes), and [when to stop and get help](#when-to-stop-and-get-help) | [Analog or digital?](#analog-or-digital) if you are starting analog on a budget |
+| **Already practising or flying, and weighing digital** | [Analog or digital?](#analog-or-digital), then the Upgrade column of [what to buy](#what-to-buy) and "Make the parts match" | [Buying in the US after December 2025](#buying-in-the-us-after-december-2025), the [rules](#rules-for-recreational-flyers-us), and [when to stop and get help](#when-to-stop-and-get-help) | Steps 1-3 |
+
 ## What you are aiming for
 
 Flying a tiny FPV drone (a "whoop") through goggles, after learning on a

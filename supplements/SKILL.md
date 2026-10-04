@@ -3,7 +3,7 @@ name: supplement-evaluation
 description: Teaches how to evaluate a dietary supplement with five checks (need, evidence, quality seals, label, interactions) and ends with a short report for a pharmacist to confirm. Recommends no supplement, dose, timing or combination. Use when someone asks whether a supplement is worth taking, wants a label or health claim checked, or wants to prepare questions for a pharmacist.
 ---
 
-Derived from guide.md as of 2026-10-03. Regenerate when guide changes.
+Derived from guide.md as of 2026-10-04. Regenerate when guide changes.
 
 # Supplements
 
@@ -17,8 +17,10 @@ dietitian before starting anything.
 
 ## How to use this skill
 
-1. Run the guided session: walk the user through the five checks in
-   [guide.md](guide.md), one step at a time, asking for what each step needs.
+1. Start with the "Who are you?" table at the top of [guide.md](guide.md).
+   Ask the user which reader type fits them, then follow that path. On every
+   path, walk them through the five checks one step at a time, asking for
+   what each step needs; on the thorough path, skip nothing.
 2. Use [ai-context.md](ai-context.md) for the key facts, decision rules,
    common mistakes, interaction examples and prompts.
 3. Check [lessons.md](lessons.md) for keeping a routine simple and honest.

@@ -13,6 +13,7 @@
 | NEA product directory (to confirm current status) | — | [nationaleczema.org/eczema-products](https://nationaleczema.org/eczema-products/) | — | link only |
 | "Unscented" can contain masking fragrance; "fragrance-free" should not | — | [Dermatology Times](https://dermatologytimes.com/differences-benefits-among-fragrances) and others, via search summary | 2026-10-02 | secondary |
 | Do not top off a part-empty soap dispenser | Topping off can lead to bacterial contamination of soap | CDC Guideline for Hand Hygiene in Health-Care Settings (2002), quoted by [cleaning-industry sources](https://www.betco.com/about/blog/blog/2017/09/21/why-wash-your-hands-with-dirty-soap); the CDC page refused automated access | 2026-10-02 | secondary |
+| Skin reaction after a new soap: stop, and when to see a doctor | Soaps and detergents are listed irritants; "avoid further exposure to the substance"; contact your provider if the reaction is severe, you do not get better after treatment, or there are signs of infection such as tenderness, redness, warmth or fever | [MedlinePlus: Contact dermatitis](https://medlineplus.gov/ency/article/000869.htm) (page reviewed 2025-08-02) | 2026-10-04 | read at source |
 
 ## Hot tub upkeep
 

@@ -3,6 +3,20 @@
 Prices and product details checked 2026-10-02. They change; re-check before
 buying. Sources for every figure are in [sources.md](sources.md).
 
+## Who are you?
+
+Pick the row that fits you and follow its path. The two improvements are
+independent, so you can do one without the other.
+
+| If you are... | Start with | Then | You can skip |
+|---|---|---|---|
+| **Wanting gentler hand soap, spending as little as possible** | [Soap: steps](#steps) 1-3, and the Budget row of [what to buy](#what-to-buy) | [Keeping dispensers clean](#keeping-dispensers-clean), and [when to stop and get help](#when-to-stop-and-get-help) | Soap steps 4-6 and the Mid and Upgrade dispensers; the hot tub section |
+| **Ready to replace your soap dispensers** | [Soap: steps](#steps) 1-6, in order: change the soap, then trial one dispenser | [What to buy](#what-to-buy), [keeping dispensers clean](#keeping-dispensers-clean), and [when to stop and get help](#when-to-stop-and-get-help) | The hot tub section |
+| **Looking after a hot tub (new, or one you took over)** | [Hot tub: steps](#steps-1), then the [schedule](#schedule) | [Water balance](#water-balance-frog-ease), [choosing a test kit](#choosing-a-test-kit), and [when to stop and get help](#when-to-stop-and-get-help-1) | The soap section |
+
+Whichever path you take: your product manuals win where they differ from
+this guide.
+
 ## The principle
 
 Cost-effective first. Change the cheapest part of a setup before replacing
@@ -47,6 +61,12 @@ product directory before buying in bulk, since acceptance can change.
 |---|---|
 | Never top off a part-full dispenser. Empty it, wash it, dry it, then refill. | Topping off can lead to bacterial contamination of the soap |
 | Write the refill date on the dispenser | Makes "how old is this soap?" answerable |
+
+### When to stop and get help
+
+If your skin turns red, sore or inflamed after switching soap, stop using the
+new soap. See a doctor if the reaction is severe, does not clear up, or shows
+signs of infection such as tenderness, warmth or fever.
 
 ---
 

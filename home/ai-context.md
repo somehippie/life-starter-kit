@@ -1,4 +1,4 @@
-Derived from guide.md as of 2026-10-02. Regenerate when guide changes.
+Derived from guide.md as of 2026-10-04. Regenerate when guide changes.
 
 # Home: AI context
 
@@ -8,6 +8,18 @@ Helps someone improve their home by choosing the right mix of products and
 services without overspending. Covers two improvements so far: fragrance-free
 soap in every dispenser, and hot tub upkeep on a fixed schedule. Not
 professional advice; manuals and local professionals take precedence.
+
+## Reader types
+
+Ask which fits before advising; each has its own path in the guide.
+
+- Wanting gentler hand soap, spending as little as possible: change only the
+  soap (fragrance-free) and keep dispensers clean. Skip new dispensers.
+  Stop if skin reacts.
+- Ready to replace soap dispensers: change the soap first, then trial one
+  dispenser at the busiest sink before buying more. Stop if skin reacts.
+- Looking after a hot tub: schedule, water balance, the right test kit, and
+  when to call a technician. Manuals win where they differ.
 
 ## Key facts
 
@@ -43,6 +55,9 @@ Prices checked 2026-10-02; they change.
   want fewer refills and a lower price, choose the larger battery model.
 - If you install equipment that needs upkeep, record the install date and set
   recurring calendar events for every task on day one.
+- If skin turns red, sore or inflamed after switching soap, stop using the
+  new soap; see a doctor if the reaction is severe, does not clear up, or
+  shows signs of infection (tenderness, warmth, fever).
 - If your hot tub manual and this kit disagree, follow the manual.
 
 ## Common mistakes
@@ -59,7 +74,7 @@ Prices checked 2026-10-02; they change.
 Copy one of these into your AI assistant after pasting this file.
 
 ```
-Using the home kit above, ask me how many sinks I have, who uses them, and
+Using the home kit above, ask me which reader type fits me, how many sinks I have, who uses them, and
 what I use now. Then tell me which soap dispenser tier to start with, where to
 put the trial unit, and what to watch for during the trial.
 ```
