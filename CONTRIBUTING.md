@@ -73,3 +73,12 @@ weigh them:
 - Make sure every new price or rule has a dated line in `sources.md`.
 - If you changed `guide.md` or `lessons.md`, update `ai-context.md`, `SKILL.md` and their dates.
 - If you added a photo, confirm its metadata is stripped.
+
+## Maintainer review
+
+Before anything is published, the owner reviews it: a written review with
+the file tree, every claim and its source, and the PII scan results. One
+standing exception: **status-only edits** to `HANDOFF.md` and `ROADMAP.md`
+(marking work done, updating "Next") can be pushed without a review, as
+long as the PII scan passes and the edit adds no new facts, sources or
+module content. Anything else goes through review.

@@ -50,9 +50,11 @@ private notes repo's `reviews/` folder, one file per phase, for example
 
 ### Next
 
-- Existing guides (Home, Supplements, Drone) don't have the "Who are you?"
-  fork yet. Add it when each is next revised, and regenerate ai-context.md
-  and SKILL.md with it.
+- Done later the same day: Home, Supplements and Drone guides now open with
+  a "Who are you?" fork (three reader types each); ai-context.md and
+  SKILL.md regenerated; Home's soap section gained a "when to stop" line
+  (MedlinePlus); the template ai-context.md has a Reader types section.
+  Review: `reviews/phase8b-reader-forks.md`.
 - Phase 10 (Growing build) waits on the owner's plant photos.
 - Phase 6 (Booster Packs) is still gated on a module reaching Usable.
 
