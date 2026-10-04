@@ -6,10 +6,17 @@
 
 - [Home](home/ai-context.md): choosing products and services that improve a home without overspending (fragrance-free soap dispensers, hot tub upkeep). Status: Draft.
 - [Supplements](supplements/ai-context.md): how to evaluate a supplement (need, evidence, quality seals, label auditing, interactions). Recommends no doses, timings or combinations. Status: Draft.
-- [Drone](drone/ai-context.md): getting into FPV flying with a tiny whoop: buying order, analog vs digital, US recreational rules. Status: Draft.
+- [Drone](hobbies/drone/ai-context.md): getting into FPV flying with a tiny whoop: buying order, analog vs digital, US recreational rules. Status: Draft.
+
+Each module also has a SKILL.md for loading it into Claude as a skill; it points to the module's files and adds no new facts: [Home](home/SKILL.md), [Supplements](supplements/SKILL.md), [Drone](hobbies/drone/SKILL.md).
+
+## Planned (scope only, no ai-context yet)
+
+- [Hobbies](hobbies/README.md): motorsports, snowboarding, skateboarding, photography, fishing and boating.
+- [Growing](growing/README.md): beginner houseplants, with a cannabis Booster Pack for California adults 21 and over.
 
 ## Repository
 
 - [README.md](README.md): overview and module list
 - [DISCLAIMER.md](DISCLAIMER.md): not medical, legal or financial advice
-- [CONTRIBUTING.md](CONTRIBUTING.md): module template and content rules
+- [CONTRIBUTING.md](CONTRIBUTING.md): module template, content rules, starter kits and Booster Packs

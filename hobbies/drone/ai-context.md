@@ -7,7 +7,8 @@ Derived from guide.md as of 2026-10-02. Regenerate when guide changes.
 Helps a beginner get into FPV (first-person-view) drone flying cheaply and
 legally: what to buy, in what order, how to practise first, and the US rules
 for recreational flyers. Built around a tiny whoop, the usual affordable first
-drone. Not legal advice; rules differ by country and change.
+drone. Not legal advice; rules differ by country and change. LiPo batteries
+can catch fire if damaged: stop using any that are swollen or damaged.
 
 ## Key facts
 

@@ -30,3 +30,10 @@
 | Shock | Non-chlorine shock at each SmartChlor change or once a month | FROG @ease manual | 2026-10-02 | read at source |
 | Use FROG @ease strips | Standard strips read the SmartChlor reserve as total chlorine | FROG @ease manual | 2026-10-02 | read at source |
 | Taylor K-1000 measures | Total chlorine, bromine, pH (3-way) | [Leslie's product listing](https://lesliespool.com/taylor-technologies-residential-oto-3-way-test-kit-for-total-chlorine-bromine-and-ph/18554.html) | 2026-10-02 | read at source |
+
+## Skill format
+
+| Claim | Value | Source | Last verified | Checked |
+|---|---|---|---|---|
+| SKILL.md frontmatter: `name` and `description` required; `name` at most 64 characters, lowercase letters, numbers and hyphens, no "anthropic" or "claude"; `description` at most 1,024 characters | Used for this module's SKILL.md | [Anthropic: Agent Skills overview, "Skill structure"](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview#skill-structure) | 2026-10-04 | read at source |
+| Where to install a skill | Claude Code: `~/.claude/skills/`; claude.ai: zip upload under Settings > Features on paid plans with code execution enabled | same page, "Where Skills work" | 2026-10-04 | read at source |

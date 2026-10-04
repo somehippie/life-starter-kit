@@ -29,5 +29,14 @@ not depend on memory.
 | [guide.md](guide.md) | Ordered steps, buying order, budget / mid / upgrade tiers |
 | [lessons.md](lessons.md) | What tends to work and what does not |
 | [ai-context.md](ai-context.md) | Paste into any AI to tailor this kit to your home |
+| [SKILL.md](SKILL.md) | Load into Claude as a skill (see below) |
 | [sources.md](sources.md) | Where every fact comes from, with dates |
-| [add-ons/](add-ons/) | Deeper add-on packs (none yet) |
+| [booster-packs/](booster-packs/) | Booster Packs: go beyond the starter (none yet) |
+
+## Use it as a skill
+
+This module ships a [SKILL.md](SKILL.md), so you can load it into Claude as a
+skill instead of pasting `ai-context.md` each time. In Claude Code, copy this
+module's folder into `~/.claude/skills/`. In the Claude apps (paid plans,
+with code execution turned on), zip the folder and upload it under
+Settings > Features.

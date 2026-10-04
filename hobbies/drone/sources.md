@@ -1,6 +1,6 @@
 # Drone: sources
 
-"Checked" labels are explained in [CONTRIBUTING.md](../CONTRIBUTING.md#marking-how-sure-we-are).
+"Checked" labels are explained in [CONTRIBUTING.md](../../CONTRIBUTING.md#marking-how-sure-we-are).
 
 ## Rules (US)
 
@@ -42,3 +42,10 @@
 | Analog vs digital trade-offs | Community consensus and the build below; not measured | secondary |
 | Throttle curve starting point (Mid 0.25, Expo 0.35); whoop hover ~20-35% | A pilot's shared settings, used in the build below | secondary |
 | Firmware, flashing, screw-size and bundle lessons | A documented analog build: [fpv-starter-kit](https://github.com/somehippie/fpv-starter-kit) | read at source |
+
+## Skill format
+
+| Claim | Value | Source | Last verified | Checked |
+|---|---|---|---|---|
+| SKILL.md frontmatter: `name` and `description` required; `name` at most 64 characters, lowercase letters, numbers and hyphens, no "anthropic" or "claude"; `description` at most 1,024 characters | Used for this module's SKILL.md | [Anthropic: Agent Skills overview, "Skill structure"](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview#skill-structure) | 2026-10-04 | read at source |
+| Where to install a skill | Claude Code: `~/.claude/skills/`; claude.ai: zip upload under Settings > Features on paid plans with code execution enabled | same page, "Where Skills work" | 2026-10-04 | read at source |

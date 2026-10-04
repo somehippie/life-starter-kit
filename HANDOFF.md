@@ -7,7 +7,60 @@ Read this and [ROADMAP.md](ROADMAP.md) at the start of every session.
 private notes repo's `reviews/` folder, one file per phase, for example
 `reviews/phase2-drone.md`. Never put review files in this public repo.
 
-## Last session: 2026-10-03 (Supplements field test)
+## Last session: 2026-10-04 (phases 8 and 9)
+
+### Decisions made by the owner (2026-10-04)
+
+| Decision | Detail |
+|---|---|
+| Starter Kit definition | For first-time users. Each starter guide opens with a "Who are you?" fork for two or three reader types (for example curious but unsure, or ready to buy), each with its own path through the guide. |
+| Booster Pack definition | For all users: content that takes a skill beyond the starter. One definition across all of the owner's projects. The AI Starter Kit's Part 8 courses are that kit's Booster Packs, so its README wording stays accurate. |
+| Phase 4 rename reversed | `add-ons/` folders are now `booster-packs/`. |
+| Modules as skills | Each module ships a SKILL.md alongside ai-context.md, so people can load it into Claude as a skill. |
+| Hobbies umbrella | `hobbies/`, framed as paths into flow state. Art and music join later. |
+| Growing umbrella | Top-level `growing/`, separate from hobbies (homesteading direction). Its starter kit is houseplants; cannabis is a Booster Pack inside it. |
+| Cure device | The owner's own invention: a separate repository later, linked from the cannabis Booster Pack and a Projects table in the root README (phase 13). |
+| Successor | Designating a GitHub repository successor is the last roadmap item (phase 14). |
+| Photos | Strip all metadata, especially GPS, from any photo before it is committed to either repository (CONTRIBUTING rule 7). |
+
+### Done
+
+- **Phase 8.** `add-ons/` renamed `booster-packs/` everywhere. `drone/` moved
+  to `hobbies/drone/` with every link fixed; the owner's profile README link
+  was updated to match. `_template/guide.md` opens with a "Who are you?"
+  table; `_template/SKILL.md` added, its frontmatter limits taken from
+  Anthropic's Agent Skills overview (read at source 2026-10-04, cited in
+  `_template/sources.md`). Home, Supplements and Drone each ship a SKILL.md;
+  Supplements keeps every no-dose rule and the pharmacist report.
+- **Phase 9.** `hobbies/` README and stubs (motorsports, snowboarding,
+  skateboarding, photography, fishing-boating); `growing/` README with the
+  houseplant starter (varieties unidentified until the owner's photos) and
+  the cannabis Booster Pack stub. Its legal notice was checked against
+  California Health and Safety Code 11362.1, 11362.2 and 11359, 21 CFR
+  1308.11 and 1308.13, and 21 USC 802 and 841 on 2026-10-04. It states
+  plainly that home growing remains federally illegal: only FDA-approved
+  and state-medical-licensed marijuana moved to Schedule III in April 2026,
+  and growing counts as manufacturing in any schedule. Corrections: the limit is **six** plants (an
+  earlier note had a different number; it was wrong); cities and counties can ban outdoor growing but **cannot** fully
+  ban indoor growing in a private residence; the locked-space rule is state
+  law.
+- Raw growing notes are in the private notes repo; nothing from them is
+  public until phase 10.
+- Review: `reviews/phase8-9-restructure.md`.
+
+### Next
+
+- Existing guides (Home, Supplements, Drone) don't have the "Who are you?"
+  fork yet. Add it when each is next revised, and regenerate ai-context.md
+  and SKILL.md with it.
+- Phase 10 (Growing build) waits on the owner's plant photos.
+- Phase 6 (Booster Packs) is still gated on a module reaching Usable.
+
+### Open questions
+
+- Which module reaches Usable first.
+
+## Earlier session: 2026-10-03 (Supplements field test)
 
 ### Done
 

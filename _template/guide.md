@@ -8,6 +8,20 @@ Tables for comparisons; short sentences. Delete comments when done.
 
 Prices checked <YYYY-MM-DD>. They change; re-check before buying.
 
+## Who are you?
+
+<!--
+Two or three reader types, each with its own path through this guide.
+Name each type by where the reader is, not by who they are. Every path must
+still reach "When to stop and get help". Example types: curious but unsure
+whether this is for them; ready to buy and wants the shortest route.
+-->
+
+| If you are... | Start with | Then | You can skip |
+|---|---|---|---|
+| <reader type 1, e.g. curious but unsure> | <section> | <section> | <sections> |
+| <reader type 2, e.g. ready to buy> | <section> | <section> | <sections> |
+
 ## What you are aiming for
 
 <One paragraph: the end state, and the principle behind the choices.>

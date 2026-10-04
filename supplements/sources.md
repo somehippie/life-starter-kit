@@ -66,3 +66,10 @@
 
 The lessons in [lessons.md](lessons.md) are generalized from one person's
 experience keeping a supplement routine. They are observations, not evidence.
+
+## Skill format
+
+| Claim | Value | Source | Last verified | Checked |
+|---|---|---|---|---|
+| SKILL.md frontmatter: `name` and `description` required; `name` at most 64 characters, lowercase letters, numbers and hyphens, no "anthropic" or "claude"; `description` at most 1,024 characters | Used for this module's SKILL.md | [Anthropic: Agent Skills overview, "Skill structure"](https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview#skill-structure) | 2026-10-04 | read at source |
+| Where to install a skill | Claude Code: `~/.claude/skills/`; claude.ai: zip upload under Settings > Features on paid plans with code execution enabled | same page, "Where Skills work" | 2026-10-04 | read at source |
