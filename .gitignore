@@ -4,3 +4,7 @@
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# ExifTool backups: "exiftool -all=" without -overwrite_original keeps the
+# untouched photo (GPS included) as name.jpg_original. Never commit them.
+*_original
